@@ -427,3 +427,8 @@ header .container {
   background-position: center;
   background-size: cover;
 }
+
+#anchor{
+  background-color: #64bcf4;
+  color: #192e3a;
+}
